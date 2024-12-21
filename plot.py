@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 
+
 # Data setup
 data = {
     year: {month: value for month, value in zip(
