@@ -1,3 +1,5 @@
+![Alt text](/pic.png)
+
 This script generates a line plot of monthly connections from the years 2016 to 2024.
 
 The data is structured in a dictionary where each key is a year and the value is another dictionary
